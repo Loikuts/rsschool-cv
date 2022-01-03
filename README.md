@@ -1,1 +1,1 @@
-https://Loikuts.github.io/rsschool-cv/cv
+hhttps://Loikuts.github.io/rsschool-cv/
