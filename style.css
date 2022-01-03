@@ -5,10 +5,38 @@
     left: 500px;
 }
 body{
-    max-width: 1000px;
+    padding: 5px;
+    border: 10px solid black;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 900px;
     position: relative;
     margin: 0 auto;
 }
 .about_me{
     width: 400px;
+}
+h1{
+display: inline;
+border: 3px solid black;
+width: 100%;
+}
+.header{
+    margin-top: 10px;
+}
+.nav li{
+    list-style: none;
+    margin-right: 4px;
+    background-color:pink;
+    border-radius: 5px;
+}
+.nav ul{
+    padding: 0;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.codewars{
+    color:blue;
 }
