@@ -1,0 +1,14 @@
+.img_me{
+    position: absolute;
+    background-image: url(me.jpg);
+    width: 40%;
+    left: 500px;
+}
+body{
+    max-width: 1000px;
+    position: relative;
+    margin: 0 auto;
+}
+.about_me{
+    width: 400px;
+}
